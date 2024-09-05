@@ -22,11 +22,10 @@ To start your React application in Visual Studio Code using the bash terminal:
 ![Twice](WhatWebsiteLookLike/Twice.jpg)
 
 ## Content
-I added The card of the website 
-This girl group Kpop
-GIDLE
-NEWJEANS
-IVE
-TWICE
-BLACKPINK
-LESSERAFIM
+### I added The card of the website This girl group Kpop :
+- GIDLE
+- NEWJEANS
+- IVE
+- TWICE
+- BLACKPINK
+- LESSERAFIM
